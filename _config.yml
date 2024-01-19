@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhijie ZHANG / Site Title"
+title                    : "Zhijie ZHANG / 张志杰"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhijie ZHANG"
+  name             : "  Zhijie ZHANG"
   avatar           : "微信图片_20201130111458.jpg"
   bio              : "Ph.D. Candidate, School of Mechanical Engineering, Xi'an Jiaotong University"
   location         : "Xi'an, China"
